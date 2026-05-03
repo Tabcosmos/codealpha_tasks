@@ -11,6 +11,13 @@ This repository contains tasks completed during the CodeAlpha Java Internship.
 - Rule-based chatbot using Java
 - Uses basic NLP (keyword matching)
 - Interactive GUI using Swing
+  
+## 🔹 Task 4: Hotel Reservation System
+- Console-based system using Java
+- Allows room booking and cancellation
+- Includes room categories (Standard, Deluxe, Suite)
+- Uses File I/O to store bookings
+- Simulates payment process
 
 ## 🛠️ Technologies Used
 - Java
